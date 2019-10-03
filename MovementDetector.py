@@ -128,7 +128,6 @@ while(True):
                 else:
                     img.draw_rectangle(biggest_blob.rect(),(255,255,255))
                     #print("At:", blob_x)
-        6
         last_x = blob_x
         last_y = blob_y
 
